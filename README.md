@@ -1,4 +1,4 @@
-# DNACenterInventoryWebexIntegration
+# DNA Center-Inventory-Webex Integration
 Updating Inventory using DNA-C with Chatbot Notification bot
 
 
@@ -35,6 +35,11 @@ Activate the virtual env
 *Linux* ``` source venv/bin/activate```
 
 Now you have your virtual environment setup and ready
+
+#### Install the libraries :
+
+```$ pip install requirements.txt```
+
 
 ## Setup: 
 *Cisco DNA Center Connection*
