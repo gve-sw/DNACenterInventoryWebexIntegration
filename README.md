@@ -89,6 +89,8 @@ Run the python script
 ```
     $ python inventory_update.py
 ```
+The Webex Bot will send the list of Network devices which have been updated in the database:
+![Sample Database Update Message](/IMAGES/DatabaseUpdateMessage.PNG)
 
 ### LICENSE
 
