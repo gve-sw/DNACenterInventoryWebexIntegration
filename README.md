@@ -10,7 +10,7 @@ Updating Inventory using DNA-C with Chatbot Notification bot
 |:---------------------------|
 | This repository is now mirrored at "PLEASE UPDATE HERE - add External repo URL after code review is completed"  Please inform a https://github.com/gve-sw/ organization admin of any changes to mirror them to the external repo |
 ## Contacts
-* Eda Akturk 
+* Eda Akturk (eakturk@cisco.com)
 
 ## Solution Components
 * Python 3.8
@@ -21,7 +21,7 @@ Updating Inventory using DNA-C with Chatbot Notification bot
 ## Installation/Configuration
 
 #### Clone the repo :
-```$ git clone (repo)```
+```$ git clone https://github.com/gve-sw/DNACenterInventoryWebexIntegration.git```
 
 #### *(Optional) Create Virtual Environment :*
 Initialize a virtual environment 
