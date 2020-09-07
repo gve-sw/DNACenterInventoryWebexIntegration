@@ -5,10 +5,6 @@ Updating Inventory using DNA-C with Chatbot Notification bot
 
 
 
-
-| :exclamation:  External repository notice   |
-|:---------------------------|
-| This repository is now mirrored at "PLEASE UPDATE HERE - add External repo URL after code review is completed"  Please inform a https://github.com/gve-sw/ organization admin of any changes to mirror them to the external repo |
 ## Contacts
 * Eda Akturk (eakturk@cisco.com)
 
